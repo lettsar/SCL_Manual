@@ -1,0 +1,20 @@
+.doc_man{
+    padding: 10px;
+}
+.doc_man > span{
+    color: red;
+    font-weight: bold;
+    font-size:1rem;
+}
+.doc_man > img{
+    width: 80%;
+    height: auto;
+}
+.doc_man > .sub_sp{
+    font-weight: bold;
+    font-size: 1rem;
+}
+.grid-4{
+    display: grid;
+    
+}
